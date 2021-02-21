@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Section5Exercise1
+namespace Section5Exercise11
 {
     class Program
     {

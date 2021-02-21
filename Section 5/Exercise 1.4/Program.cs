@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Section5Exercise4
+namespace Section5Exercise14
 {
     /// <summary>
     /// Your job is to write a program for a speed camera.
